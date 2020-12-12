@@ -1,0 +1,29 @@
+.div {
+    background-color: cadetblue;
+    margin: 0px;
+    border: 12px solid black.;
+    text-align:center; 
+
+}
+img  {
+    border-radius: 50px;
+    border-color: rgb(234, 244, 252);
+    border-style: double;
+    }
+    .hh {
+        font-family: 'Georgia',Times New Roman , Times, serif;
+        font-size: 40px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        color: rgb(243, 234, 236);
+        letter-spacing: 10px;
+        word-spacing: 10px;
+        text-shadow: 4px 2px black;
+      }
+      .pp {
+          font-style: italic;
+          font-size: 50px;
+          background-color: cornsilk;
+
+
+      }
